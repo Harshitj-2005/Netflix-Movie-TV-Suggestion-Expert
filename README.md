@@ -38,8 +38,7 @@ This project is a **query-aware AI movie and TV show recommendation system**, po
 1. **Clone this repo**
 
 ```bash
-git clone https://github.com/yourusername/netflix-ai-recommender.git
-cd netflix-ai-recommender
+git clone https://github.com/Harshitj-2005/Netflix-Movie-TV-Suggestion-Expert
 ```
 
 2. **Install dependencies**
