@@ -1,6 +1,3 @@
-Here’s a professional `README.md` file for your project based on the two files (`query.js` and `dataindexing.js`) you shared. I've also included a tag to **Rohit Negi Sir**.
-
----
 
 ## 🎬 Netflix Movie & TV Suggestion Expert using Gemini + Pinecone
 
@@ -86,4 +83,4 @@ node query.js
  🧑‍🏫 Credits
 
 * 💡 Developed by **Harshit Jain**
-* 🧠 Special thanks to rohit negi sir (https://github.com/RohitNegiSir) for guidance on AI workflows and architecture
+* 🧠 Special thanks to @rohitnegi9 (https://github.com/Rohitnegi9) for guidance on AI workflows and architecture
