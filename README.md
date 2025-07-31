@@ -1,7 +1,7 @@
 
 ## 🎬 Netflix Movie & TV Suggestion Expert using Gemini + Pinecone
 
-> 🚀 Built with 💡 by Harshit Jain — with special thanks to **@RohitNegiSir** for guidance and inspiration.
+>special thanks to **@RohitNegiSir** for guidance and inspiration.
 
 ### 🔍 Project Description
 
